@@ -89,5 +89,3 @@ To analyze AI job market trends and understand the relationship between job role
 ## 👩‍💻 Author
 
 **Suvedha K**
-
-GitHub: https://github.com/Suvedha-K
